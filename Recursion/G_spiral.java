@@ -2,6 +2,28 @@ package Recursion;
 
 import java.util.Scanner;
 
+/*  Task 7  */
+/*
+    Print the square that consists of NxN cells filled with numbers from 1 to
+    N*N in a spiral mode (see examples).
+
+    Note. Use recursion for solving this problem.
+
+    Sample Input 1:
+        3
+    Sample Output 1:
+        1 2 3
+        8 9 4
+        7 6 5
+    Sample Input 2:
+        4
+    Sample Output 2:
+        1 2 3 4
+        12 13 14 5
+        11 16 15 6
+        10 9 8 7
+*/
+
 public class G_spiral {
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {

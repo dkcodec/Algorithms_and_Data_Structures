@@ -2,6 +2,12 @@ package Recursion;
 
 import java.util.Scanner;
 
+/*  Task 2  */
+/*
+    Write and test a recursive function that returns the sum of the first n
+    elements of an array.
+*/
+
 public class B_sum_of_the_first_n_elements_of_an_array {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

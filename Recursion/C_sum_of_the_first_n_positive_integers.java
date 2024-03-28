@@ -2,6 +2,11 @@ package Recursion;
 
 import java.util.Scanner;
 
+/*  Task 3  */
+/*
+    Write a recursive method to compute the sum of the first n positive integers.
+*/
+
 public class C_sum_of_the_first_n_positive_integers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
