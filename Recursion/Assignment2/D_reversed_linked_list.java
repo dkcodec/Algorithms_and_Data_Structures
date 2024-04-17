@@ -15,7 +15,7 @@ public class D_reversed_linked_list {
         head.next = new ListNode(2);
         head.next.next = new ListNode(3);
         head.next.next.next = new ListNode(4);
-        head.next.next.next.next = new ListNode(5);
+        head.next.next.next.next = new ListNode(15);
 
         D_reversed_linked_list solution = new D_reversed_linked_list();
         ListNode reversedList = solution.reverseList(head);
